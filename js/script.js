@@ -110,3 +110,11 @@
 //let x = 20 % 3
 //x /= 1
 //console.log(x)
+
+//STEP 21
+//
+
+
+
+//STEP 22
+//
